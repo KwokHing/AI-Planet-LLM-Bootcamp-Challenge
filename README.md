@@ -10,6 +10,7 @@ When we asked Orca Mini to provide us codes for scikit-learn linear regression b
 
 ![jpg](img/orca-3b-before-finetuned.png)
 
+
 After fine-tuning, the model is able to return a more targeted code generation completion output shown below.
 
 ![jpg](img/orca-3b-after-finetuned.png)
