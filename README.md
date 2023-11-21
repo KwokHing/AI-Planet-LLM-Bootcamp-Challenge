@@ -6,6 +6,10 @@ A challenge from AI Planet's LLM bootcamp to (i) fine-tune pre-trained HuggingFa
 ### Part I: Fine-tuning [Orca Mini 3B](https://huggingface.co/pankajmathur/orca_mini_3b) on [evolved codealpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) dataset to build a Code Generation model
 Fine-tuning Orca Mini 3B with the evolved codealpaca dataset equips Orca Mini the ability to perform better on code generation tasks. 
 
-See example below when we asked the pre-trained Orca Mini before fine-tuning to provide us a scikit-learn linear regression code
+When we asked Orca Mini to provide us codes for scikit-learn linear regression before fine-tuning was done, it requested for more information to be provided. 
 
 ![jpg](img/orca-3b-before-finetuned.png)
+
+After fine-tuning, the model is able to return a more targeted code generation completion output shown below.
+
+![jpg](img/orca-3b-after-finetuned.png)
