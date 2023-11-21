@@ -3,7 +3,7 @@ A challenge from AI Planet's LLM bootcamp to (i) fine-tune pre-trained HuggingFa
 
 ---
 
-### Part I: Fine-tuning [Orca Mini 3B](https://huggingface.co/pankajmathur/orca_mini_3b) on [evolved codealpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) dataset to build a Code Generation model
+#### Part I: Fine-tuning [Orca Mini 3B](https://huggingface.co/pankajmathur/orca_mini_3b) on [evolved codealpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) dataset to build a Code Generation model
 Fine-tuning Orca Mini 3B with the evolved codealpaca dataset equips Orca Mini the ability to perform better on code generation tasks. 
 
 When we asked Orca Mini to provide us codes for scikit-learn linear regression before fine-tuning was done, it requested for more information to be provided. 
@@ -15,6 +15,7 @@ After fine-tuning, the model is able to return a more targeted code generation c
 
 ![jpg](img/orca-3b-after-finetuned.png)
 
+---
 
 ## Getting started
-Open `DsCoP Kaggle - Ensemble.ipynb` on a jupyter notebook environment. Alternatively, you can view the codes in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TU4XPGS04xdMHY1wXj23Z9OiELp7XJ_7#scrollTo=-gZxQYC5g4No?usp=sharing). The notebook consists of further technical details.
+Open `AI Planet LLM Bootcamp Challenge.ipynb.ipynb` on a jupyter notebook environment. Alternatively, you can view the codes in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TU4XPGS04xdMHY1wXj23Z9OiELp7XJ_7#scrollTo=-gZxQYC5g4No?usp=sharing). The notebook consists of further technical details.
