@@ -14,3 +14,7 @@ When we asked Orca Mini to provide us codes for scikit-learn linear regression b
 After fine-tuning, the model is able to return a more targeted code generation completion output shown below.
 
 ![jpg](img/orca-3b-after-finetuned.png)
+
+
+## Getting started
+Open `DsCoP Kaggle - Ensemble.ipynb` on a jupyter notebook environment. Alternatively, you can view the codes in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TU4XPGS04xdMHY1wXj23Z9OiELp7XJ_7#scrollTo=-gZxQYC5g4No?usp=sharing). The notebook consists of further technical details.
