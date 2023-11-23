@@ -18,6 +18,11 @@ After fine-tuning, the model is able to return a more targeted code generation c
 ---
 
 #### Part II: Building a Retrieval-Augmented Generation (RAG) application using LangChain
+A simple RAG to answer questions on the Battle Line game rules (PDF) using LangChain. We used the INSTRUCTOR embeddings model (ranked highly on the Massive Text Embeddings Benchmark, [MTEB](https://huggingface.co/spaces/mteb/leaderboard) leaderboard) for performing semantic retrieval and a quantized version of the impressive [Mistral 7B](https://mistral.ai/product/) for returning the completion output. 
+
+Example of a RAG output:
+
+
 
 ---
 
