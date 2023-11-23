@@ -33,5 +33,5 @@ Open `AI_Planet_LLM_Bootcamp_Challenge.ipynb` on a jupyter notebook environment.
 
 ---
 
-## Bonus - Example of Fine-tuning Phi 1.5B using QloRA
+## Bonus - Example on Fine-tuning Phi 1.5B using QloRA
 Open `AI_Planet_Bootcamp_Final_Assignment_Fine_tuning_Phi_1_5b.ipynb` on a jupyter notebook environment. The notebook consists of further technical details.
