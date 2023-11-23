@@ -22,7 +22,9 @@ A simple RAG to answer questions on the Battle Line game rules (PDF) using LangC
 
 Example of a RAG output:
 
+![jpg](img/Simple-Mistral-RAG-example.png)
 
+![jpg](img/Mistral-RAG-example.png)
 
 ---
 
